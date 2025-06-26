@@ -1,0 +1,20 @@
+{
+  "name": "goit-node-cli",
+  "version": "1.0.0",
+  "description": "CLI-додаток для роботи з контактами (GOIT Node.js)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Nataliya",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^11.0.0",
+    "dotenv": "^16.6.0",
+    "express": "^5.1.0",
+    "nanoid": "^5.0.2",
+    "pg": "^8.16.2",
+    "sequelize": "^6.37.7"
+  }
+}
